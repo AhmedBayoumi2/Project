@@ -11,5 +11,6 @@ I'll work on the sign up form page and the main page to make it a completed proj
 ### page link
 https://ahmedbayoumi2.github.io/Project/
 ### How to use and run the project
-feel free to use the project you can download and use the files easily.
+feel free to use the project you can download and use the files easily.<br>
+You will find the css sheet in the css folder and all the pics and icons in the images folder and the html file in the main path.
 ## thanks for your time
